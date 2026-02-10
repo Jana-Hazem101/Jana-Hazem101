@@ -10,11 +10,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="40px" alt="Youtube" title="Youtube" src="https://www.svgrepo.com/show/242474/linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/jana-hazem-a528a6375/"><img width="40px" alt="Youtube" title="Youtube" src="https://www.svgrepo.com/show/242474/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://www.svgrepo.com/show/242485/google-plus.svg"/></a>
+  <a href="mailto:jana.hazem.othman@gmail.com"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://www.svgrepo.com/show/242485/google-plus.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="40px" alt="Twitter" title="Twitter" src="https://www.svgrepo.com/show/242481/telegram.svg"/></a>
+  <a href="https://t.me/jonjonaiaa"><img width="40px" alt="Twitter" title="Twitter" src="https://www.svgrepo.com/show/242481/telegram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
