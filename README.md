@@ -4,7 +4,7 @@
 
 <pre align="left">
  <b style="color: #ab2720;">    /\_/\ </b>
- <b style="color: #ab2720;">   (=^.^=)                                </b>  <i>AI logic into elegant human experiences</i>
+ <b style="color: #ab2720;">   (=^.^=)                              </b>  <i>AI logic into elegant human experiences</i>
  <b style="color: #ab2720;">   (")_(")</b> 
 </pre>
 
