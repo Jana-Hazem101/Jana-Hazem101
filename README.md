@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:jana.hazem.othman@gmail.com"><img width="40px" alt="Gmail" title="Gmail" src="https://www.svgrepo.com/show/242485/google-plus.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/jonjonaiaa"><img width="40px" alt="Telegram" title="Telegram"" src="https://www.svgrepo.com/show/242481/telegram.svg"/></a>
+  <a href="https://t.me/Jana_Hazem101"><img width="40px" alt="Telegram" title="Telegram"" src="https://www.svgrepo.com/show/242481/telegram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
